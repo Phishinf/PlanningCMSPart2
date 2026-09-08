@@ -1,0 +1,6 @@
+{
+  "name": "Church Planning CMS 2026",
+  "description": "Ministry Modular CMS with financial ledger, ministry personnel, curriculum engine, and global calendar integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
